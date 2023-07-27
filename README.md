@@ -1,2 +1,2 @@
-# trexgamebutmorebetter
-trex but more better
+# PROC18-V3ColorfullTrex
+Colorful Trex
